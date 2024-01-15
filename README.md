@@ -22,5 +22,5 @@ This is Django project kickstarter.
 
 ## TODO
 
-- \[ \] Create super user after pull.
-- \[ \] perform migrate after pull.
+- [ ] Create super user after pull.
+- [ ] perform migrate after pull.
